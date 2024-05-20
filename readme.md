@@ -1,4 +1,4 @@
-#### I build essential solutions for businesses in modern digital economy
+### I build essential solutions for businesses in modern digital economy
 
 CTO at [DroneCraft®](https://dronecraft.pro) <br>
 CTO at [ArcERP®](https://arcerp.co)
@@ -13,5 +13,5 @@ My Youtube Channel:
 
 [![Watch the video on YouTube](https://img.youtube.com/vi/XlRTJ9UEZQY/0.jpg)](https://www.youtube.com/watch?v=XlRTJ9UEZQY)
 
-[Build Your MedusaJS Store with Plasmic (Open Source Stack)](https://www.youtube.com/watch?v=XlRTJ9UEZQY)
+#### Watch: [Build Your MedusaJS Store with Plasmic (Open Source Stack)](https://www.youtube.com/watch?v=XlRTJ9UEZQY)
 
