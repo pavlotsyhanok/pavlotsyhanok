@@ -4,8 +4,8 @@ CTO at [DroneCraft®](https://dronecraft.pro) <br>
 CTO at [ArcERP®](https://arcerp.co)
 
 - ⚙️ I use: `NestJS`, `TypeScript`, `React`, `Figma`, `Python`
-- 🌍 I build and design software solutions that are essential to gear the modern economy.
 - 🚀 Focused on: eCommerce, ERP, AI in automation, decentralized manufacturing, robotics.
+- 🌍 Open Source: [MedusaJS](https://medusajs.com/), [Plasmic](https://www.plasmic.app/)
 
 Reach out via [LinkedIn](https://www.linkedin.com/in/pavlotsyhanok/)
 
