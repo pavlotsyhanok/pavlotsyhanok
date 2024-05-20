@@ -1,6 +1,6 @@
 #### I build essential solutions for businesses in modern digital economy
 
-CTO at [DroneCraft®](https://dronecraft.pro)
+CTO at [DroneCraft®](https://dronecraft.pro) <br>
 CTO at [ArcERP®](https://arcerp.co)
 
 - ⚙️ I use: `NestJS`, `TypeScript`, `React`, `Figma`, `Python`
