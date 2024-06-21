@@ -1,5 +1,7 @@
 ### I build essential solutions for businesses in modern digital economy
 
+<img src="https://www.xyte.ch/wp-content/uploads/2020/01/X230-Combined.svg" width="300px">
+
 CTO at [DroneCraft®](https://dronecraft.pro) <br>
 CTO at [ArcERP®](https://arcerp.co)
 
