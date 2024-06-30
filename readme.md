@@ -11,8 +11,8 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/pavlotsyhanok/)
 
 My Youtube Channel:
 
-[![Watch the video on YouTube](https://img.youtube.com/vi/XlRTJ9UEZQY/0.jpg)](https://www.youtube.com/watch?v=XlRTJ9UEZQY)
+[![Watch the video on YouTube](https://img.youtube.com/vi/XjMWSwoAOQc/0.jpg)](https://youtu.be/XjMWSwoAOQc?si=cKep4r2W2LaYf6I5)
 
-#### Watch: [Build Your MedusaJS Store with Plasmic (Open Source Stack)](https://www.youtube.com/watch?v=XlRTJ9UEZQY)
+#### Watch: [Build & Deploy Production Ready MedusaJS Shop](https://youtu.be/XjMWSwoAOQc?si=cKep4r2W2LaYf6I5)
 
 <img src="https://www.xyte.ch/wp-content/uploads/2020/01/X230-Combined.svg" width="300px">
