@@ -1,4 +1,4 @@
-### I build essential solutions for businesses in modern digital economy
+### I deliver solutions for businesses in modern digital economy
 
 Personal Website: [www.pavloworks.com](https://www.pavloworks.com)
 
