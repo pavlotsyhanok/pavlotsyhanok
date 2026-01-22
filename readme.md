@@ -1,9 +1,7 @@
 ### I deliver solutions for businesses in modern digital economy
 
 Personal Website: [www.pavloworks.com](https://www.pavloworks.com)
-
-CTO at [DroneCraft®](https://dronecraft.pro) <br>
-Tech Lead at [Style In Form®](https://styleinform.com)
+COO at [Style In Form®](https://styleinform.com)
 
 - ⚙️ I use: `NestJS`, `TypeScript`, `React`, `Figma`, `Python`
 - 🚀 Focused on: eCommerce, ERP, AI in automation, decentralized manufacturing, robotics.
